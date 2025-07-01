@@ -1,7 +1,7 @@
 # ComfyUI WAN2.1 VACE Video Helper Nodes
 
 WORKFLOW URL:
-[wan2_1VaceInfinite.json]([https://example.com](https://gist.github.com/heheok/396b0fa639f74ef331081343129c2588))
+[wan2_1VaceInfinite.json](https://gist.github.com/heheok/396b0fa639f74ef331081343129c2588)
 
 
 This collection of custom nodes for ComfyUI is specifically designed to automate and streamline the process of creating infinite videos with WAN2.1 VACE.
